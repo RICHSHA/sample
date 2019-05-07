@@ -6,3 +6,5 @@ print("ovo sam dodao")
 print("drugo dodavanje")
 
 print("trece dodavanje")
+
+print("ovo je novi branch")
