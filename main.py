@@ -4,3 +4,5 @@ print("ovo prvo commitam")
 print("ovo sam dodao")
 
 print("drugo dodavanje")
+
+print("trece dodavanje")
